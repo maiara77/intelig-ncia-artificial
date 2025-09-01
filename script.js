@@ -26,7 +26,7 @@ const perguntas = [
                 afirmacao: "Minha mente rende melhor com a luz do sol."
             },
             {
-                texto: "Durante a noite sem distrções.",
+                texto: "Durante a noite sem distrações.",
                 afirmacao: "Minha mente rende melhor quando está escuro e silencioso."
             }
         ]
