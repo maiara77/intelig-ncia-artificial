@@ -26,47 +26,47 @@ const perguntas = [
                 afirmacao: "minha mente rende melhor com a luz do sol"
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "afirmação"
+                texto: " durante a noite sem distrções",
+                afirmacao: "minha mente rende melhor quando está escuro e silencioso."
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "para passeios ou atividades ao ar livre você prefere:",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "afirmação"
+                texto: "a luz do dia e o calor do sol",
+                afirmacao: "gosto de aproveitar o dia ao máximo."
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "afirmação"
+                texto: "A atmosfera tranquila da noite. ",
+                afirmacao: "Prefiro sair quando está tudo mais calmo."
             }
         ]
     },
     {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "Em festas ou encontros, você se sente mais à vontade:",
         alternativas: [
             {
-                texto: "Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao: "afirmação"
+                texto: "durante o dia em ambientes claros e animados",
+                afirmacao: "prefiro a energia e movimento do dia"
             },
             {
-                texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao: "afirmação"
+                texto: "À noite, com luz baixa e clima descontraído",
+                afirmacao: "prefiro o clima intimista da noite"
             }
         ]
     },
     {
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz? ",
+        enunciado: "para descançar e relaxar você prefere:",
         alternativas: [
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao: "afirmação"
+                texto: "Aproveitar a luz do dia para se energizar",
+                afirmacao: "sou mais ativo com o sol"
             },
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao: "afirmação"
+                texto: "A noite para se desligar e refetir.",
+                afirmacao: "sou mais contemplativo à noite."
             }
         ]
     },
