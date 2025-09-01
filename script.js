@@ -6,40 +6,40 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Quando você acorda se sente mais disposto",
+        enunciado: "Quando você acorda se sente mais disposto:",
         alternativas: [
             {
-                texto: "pela manhã com o sol iluminando tudo",
-                afirmacao: "prefiro aproveitar a energia do dia"
+                texto: "Pela manhã com o sol iluminando tudo.",
+                afirmacao: "Prefiro aproveitar a energia do dia."
             },
             {
-                texto: "a noite, quando tudo está mais calmo",
-                afirmacao: "gosto da tranquilidade e silêncio da noite"
+                texto: "A noite, quando tudo está mais calmo.",
+                afirmacao: "Gosto da tranquilidade e silêncio da noite."
             }
         ]
     },
     {
-        enunciado: "na hora de estudar ou trabalhar você se sente mais produtivo",
+        enunciado: "Na hora de estudar ou trabalhar você se sente mais produtivo.",
         alternativas: [
             {
-                texto: "durante o dia com a luz natural",
-                afirmacao: "minha mente rende melhor com a luz do sol"
+                texto: "Durante o dia com a luz natural.",
+                afirmacao: "Minha mente rende melhor com a luz do sol."
             },
             {
-                texto: " durante a noite sem distrções",
-                afirmacao: "minha mente rende melhor quando está escuro e silencioso."
+                texto: "Durante a noite sem distrções.",
+                afirmacao: "Minha mente rende melhor quando está escuro e silencioso."
             }
         ]
     },
     {
-        enunciado: "para passeios ou atividades ao ar livre você prefere:",
+        enunciado: "Para passeios ou atividades ao ar livre você prefere:",
         alternativas: [
             {
-                texto: "a luz do dia e o calor do sol",
-                afirmacao: "gosto de aproveitar o dia ao máximo."
+                texto: "A luz do dia e o calor do sol.",
+                afirmacao: "Gosto de aproveitar o dia ao máximo."
             },
             {
-                texto: "A atmosfera tranquila da noite. ",
+                texto: "A atmosfera tranquila da noite.",
                 afirmacao: "Prefiro sair quando está tudo mais calmo."
             }
         ]
@@ -48,25 +48,25 @@ const perguntas = [
         enunciado: "Em festas ou encontros, você se sente mais à vontade:",
         alternativas: [
             {
-                texto: "durante o dia em ambientes claros e animados",
-                afirmacao: "prefiro a energia e movimento do dia"
+                texto: "Durante o dia em ambientes claros e animados.",
+                afirmacao: "Prefiro a energia e movimento do dia."
             },
             {
-                texto: "À noite, com luz baixa e clima descontraído",
-                afirmacao: "prefiro o clima intimista da noite"
+                texto: "À noite, com luz baixa e clima descontraído.",
+                afirmacao: "Prefiro o clima intimista da noite."
             }
         ]
     },
     {
-        enunciado: "para descançar e relaxar você prefere:",
+        enunciado: "Para descançar e relaxar você prefere:",
         alternativas: [
             {
-                texto: "Aproveitar a luz do dia para se energizar",
-                afirmacao: "sou mais ativo com o sol"
+                texto: "Aproveitar a luz do dia para se energizar.",
+                afirmacao: "Sou mais ativo com o sol."
             },
             {
                 texto: "A noite para se desligar e refetir.",
-                afirmacao: "sou mais contemplativo à noite."
+                afirmacao: "Sou mais contemplativo à noite."
             }
         ]
     },
