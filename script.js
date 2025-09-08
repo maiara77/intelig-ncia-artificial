@@ -105,7 +105,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Você se é mais";
+    caixaPerguntas.textContent = "Você é mais";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
